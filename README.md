@@ -14,9 +14,9 @@ Open the text file in read mode
 Split words in each line and store in list
 ### Step 5: 
 Count the number of occurence of each word in the list
-###Step 6:
+### Step 6:
 Store the count of each word in dictionary
-###Step 7:
+### Step 7:
 print the dictionary close the file
 ## PROGRAM:
 
